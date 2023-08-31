@@ -1,4 +1,6 @@
-### Hola! Soy Enzo Balderrama, estudiante de la Tecnicatura Universitaria en Programación de la Universidad Tecnológica Nacional.
+### Hola! 
+Soy Enzo Balderrama, estudiante de la Tecnicatura Universitaria en Programación de la Universidad Tecnológica Nacional.
+* Actualmente estoy aprendiendo sobre los lenguajes Python, Java, JavaScript y C++.
 <!--
 **EnzoxxB/EnzoxxB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
