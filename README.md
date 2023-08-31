@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hola! Soy Enzo Balderrama, estudiante de la Tecnicatura Universitaria en Programación de la Universidad Tecnológica Nacional.
 <!--
 **EnzoxxB/EnzoxxB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
