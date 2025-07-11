@@ -45,7 +45,8 @@ Soy un desarrollador de software con experiencia en **Java**, **JavaScript**, **
     </tr>
   </table>
 </div>
-### [Sistema de Reservas - UTN Los Reyunos] *(2024)*
+
+### [Sistema de Reservas - UTN Los Reyunos *(2024)*](#)
 - Implementación de servicios **RESTful** para la gestión de reservas.
 - Autenticación segura mediante **JWT**.
 - Gestión de datos con **PostgreSQL**.
