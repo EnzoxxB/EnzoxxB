@@ -22,7 +22,30 @@ Soy un desarrollador de software con experiencia en **Java**, **JavaScript**, **
 ---
 
 ## 🚀 **Proyectos destacados**
-### [Sistema de Reservas - UTN Los Reyunos](https://ctdr-utnreyunos.netlify.app/) *(2024)*
+### [WoWelbi - Servidor de WorldOfWarcraft custom con aplicación web](#)
+- Servidor WoW3.3.5a custom, con aplicación web creada con SpringBoot (backend) y React.vite (frontend).
+- Integración con **MySQL** para gestionar los datos del juego y seguridad SRP6.
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/EnzoxxB/WoWMetalServer/blob/main/Web/public/images/WoWelbi1.png?raw=true" width="300"/>
+      </td>
+      <td>
+        <img src="https://github.com/EnzoxxB/WoWMetalServer/blob/main/Web/public/images/WoWelbi2.png?raw=true" width="300"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/EnzoxxB/WoWMetalServer/blob/main/Web/public/images/WoWelbi3.png?raw=true" width="300"/>
+      </td>
+      <td>
+        <img src="https://github.com/EnzoxxB/WoWMetalServer/blob/main/Web/public/images/WoWelbi4.png?raw=true" width="300"/>
+      </td>
+    </tr>
+  </table>
+</div>
+### [Sistema de Reservas - UTN Los Reyunos] *(2024)*
 - Implementación de servicios **RESTful** para la gestión de reservas.
 - Autenticación segura mediante **JWT**.
 - Gestión de datos con **PostgreSQL**.
