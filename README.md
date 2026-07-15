@@ -21,104 +21,46 @@ Soy un desarrollador de software con experiencia en **Java**, **JavaScript**, **
 
 ---
 
-## 🚀 **Proyectos destacados**
-# 🌍 WoWelbe - World of Warcraft WotLK Web Portal
+### 🚀 Featured Projects
+## 🌍 WoWelbe
 
-Portal web desarrollado para un servidor privado de **World of Warcraft 3.3.5a**, integrado completamente con el servidor del juego mediante **Spring Boot** y **React + Vite**.
+Portal web para un servidor privado de World of Warcraft.
 
-### 🚀 Tecnologías principales
+React • Spring Boot • MySQL • SRP6 • Mercado Pago
 
-- ⚛️ React + Vite
-- ☕ Spring Boot
-- 🗄️ MySQL
-- 🔐 Autenticación compatible con TrinityCore mediante **SRP6**
-- 💳 Integración con **Mercado Pago**
-- 🎮 Gestión de personajes, tienda premium, rankings y guías
+<p align="center"> <img src="https://raw.githubusercontent.com/EnzoxxB/portfolio/main/public/images/projects/wowelbe/home.png" width="900"> </p> <p align="center"> <img src="https://raw.githubusercontent.com/EnzoxxB/portfolio/main/public/images/projects/wowelbe/login.png" width="180"> <img src="https://raw.githubusercontent.com/EnzoxxB/portfolio/main/public/images/projects/wowelbe/shop.png" width="180"> <img src="https://raw.githubusercontent.com/EnzoxxB/portfolio/main/public/images/projects/wowelbe/payment.png" width="180"> <img src="https://raw.githubusercontent.com/EnzoxxB/portfolio/main/public/images/projects/wowelbe/characters.png" width="180"> </p> <p align="center"> <a href="https://bepf.netlify.app/projects">
 
----
+<b>🌐 Portfolio</b>
 
-## 🌐 Sitio Web
-
-👉 **Demo Online:** https://wowelbe.netlify.app
-
----
-
-## 📸 Vista previa
-
-<p align="center">
-    <img src="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/home.png?raw=true" width="900">
-</p>
-
-<p align="center">
-    <b>Pantalla principal del portal</b>
-</p>
-
----
-
-## 🖼️ Galería
-
-<p align="center">
-
-<a href="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/login.png?raw=true">
-<img src="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/login.png?raw=true" width="180">
 </a>
 
-<a href="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/characters.png?raw=true">
-<img src="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/characters.png?raw=true" width="180">
-</a>
+•
 
-<a href="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/guides.png?raw=true">
-<img src="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/guides.png?raw=true" width="180">
-</a>
+<a href="https://wowelbe.netlify.app">
 
-<a href="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/shop.png?raw=true">
-<img src=="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/shop.png?raw=true" width="180">
-</a>
+<b>🚀 Live Demo</b>
 
-<a href="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/payment.png?raw=true">
-<img src="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/payment.png?raw=true" width="180">
-</a>
+</a> </p>
+## 🖥️ TechBeStore
 
-</p>
+Aplicación de escritorio desarrollada con ElectronJS.
 
-<p align="center">
-<b>Login</b> •
-<b>Inicio</b> •
-<b>Tienda</b> •
-<b>Personajes</b>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/EnzoxxB/portfolio/main/public/images/projects/techbestore/home.png" width="900"> </p> <p align="center"> <a href="https://bepf.netlify.app/projects">
 
----
+<b>📖 Más información</b>
 
-## ✨ Características
+</a> </p>
+## 🏕️ Reservation System
 
-- 🔐 Autenticación compatible con World of Warcraft mediante **SRP6**.
-- 👤 Gestión de personajes directamente desde la base de datos del servidor.
-- 🛒 Tienda Premium integrada.
-- 💳 Integración completa con Mercado Pago.
-- ⚡ Acreditación automática mediante Webhooks.
-- 💎 Sistema de Special Points (PE) y Donation Points (PD).
-- 📊 Rankings PvP/PvE.
-- 📚 Guías para jugadores.
-- 🌐 Backend REST desarrollado con Spring Boot.
+Sistema desarrollado para UTN Los Reyunos.
 
----
+👉 REST API
 
-## 🔗 Portfolio
+👉 PostgreSQL
 
-Si deseas ver una presentación mucho más completa del proyecto, con más capturas, descripción técnica y detalles de la arquitectura:
+👉 JWT
 
-👉 **https://bepf.netlify.app/projects**
-
-### [Sistema de Reservas - UTN Los Reyunos *(2024)*](#)
-- Implementación de servicios **RESTful** para la gestión de reservas.
-- Autenticación segura mediante **JWT**.
-- Gestión de datos con **PostgreSQL**.
-
-### [Hangman - Videojuego desarrollado en Python](#)
-- Videojuego del ahorcado implementado con **Tkinter**.
-- Integración con **MongoDB** para gestionar los datos del juego.
-- Uso de la **API de Google** para enriquecer la experiencia del usuario.
+👉 Spring Boot
 
 ---
 
