@@ -34,8 +34,6 @@ React • Spring Boot • MySQL • SRP6 • Mercado Pago
 
 </a>
 
-•
-
 <a href="https://wowelbe.netlify.app">
 
 <b>🚀 Live Demo</b>
