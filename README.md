@@ -26,22 +26,23 @@ Soy un desarrollador de software con experiencia en **Java**, **JavaScript**, **
 - Servidor WoW3.3.5a custom, con aplicación web creada con SpringBoot (backend) y React.vite (frontend).
 - Integración con **MySQL** para gestionar los datos del juego y seguridad SRP6.
 - Integración de **Mercado Pago** para gestionar la carga de creditos a las cuentas de usuario.
+- <li>wowelbe.netlify.app</li>
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github.com/EnzoxxB/WoWMetalServer/blob/main/Web/public/images/WoWelbi1.png?raw=true" width="300"/>
+        <img src="https://github.com/EnzoxxB/WoWMetalServer/blob/main/Web/public/images/WoWelbe1.png?raw=true" width="300"/>
       </td>
       <td>
-        <img src="https://github.com/EnzoxxB/WoWMetalServer/blob/main/Web/public/images/WoWelbi2.png?raw=true" width="300"/>
+        <img src="https://github.com/EnzoxxB/WoWMetalServer/blob/main/Web/public/images/WoWelbe2.png?raw=true" width="300"/>
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://github.com/EnzoxxB/WoWMetalServer/blob/main/Web/public/images/WoWelbi3.png?raw=true" width="300"/>
+        <img src="https://github.com/EnzoxxB/WoWMetalServer/blob/main/Web/public/images/WoWelbe3.png?raw=true" width="300"/>
       </td>
       <td>
-        <img src="https://github.com/EnzoxxB/WoWMetalServer/blob/main/Web/public/images/WoWelbi4.png?raw=true" width="300"/>
+        <img src="https://github.com/EnzoxxB/WoWMetalServer/blob/main/Web/public/images/WoWelbe4.png?raw=true" width="300"/>
       </td>
     </tr>
   </table>
