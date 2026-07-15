@@ -22,7 +22,7 @@ Soy un desarrollador de software con experiencia en **Java**, **JavaScript**, **
 ---
 
 ## 🚀 **Proyectos destacados**
-### [WoWelbi - Servidor de WorldOfWarcraft custom con aplicación web](#)
+### [WoWelbe - Servidor de WorldOfWarcraft custom con aplicación web](#)
 - Servidor WoW3.3.5a custom, con aplicación web creada con SpringBoot (backend) y React.vite (frontend).
 - Integración con **MySQL** para gestionar los datos del juego y seguridad SRP6.
 - Integración de **Mercado Pago** para gestionar la carga de creditos a las cuentas de usuario.
