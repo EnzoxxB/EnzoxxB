@@ -22,31 +22,93 @@ Soy un desarrollador de software con experiencia en **Java**, **JavaScript**, **
 ---
 
 ## 🚀 **Proyectos destacados**
-### [WoWelbe - Servidor de WorldOfWarcraft custom con aplicación web](#)
-- Servidor WoW3.3.5a custom, con aplicación web creada con SpringBoot (backend) y React.vite (frontend).
-- Integración con **MySQL** para gestionar los datos del juego y seguridad SRP6.
-- Integración de **Mercado Pago** para gestionar la carga de creditos a las cuentas de usuario.
-- <li>wowelbe.netlify.app</li>
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github.com/EnzoxxB/WoWMetalServer/blob/main/Web/public/images/WoWelbe1.png?raw=true" width="300"/>
-      </td>
-      <td>
-        <img src="https://github.com/EnzoxxB/WoWMetalServer/blob/main/Web/public/images/WoWelbe2.png?raw=true" width="300"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github.com/EnzoxxB/WoWMetalServer/blob/main/Web/public/images/WoWelbe3.png?raw=true" width="300"/>
-      </td>
-      <td>
-        <img src="https://github.com/EnzoxxB/WoWMetalServer/blob/main/Web/public/images/WoWelbe4.png?raw=true" width="300"/>
-      </td>
-    </tr>
-  </table>
-</div>
+# 🌍 WoWelbe - World of Warcraft WotLK Web Portal
+
+Portal web desarrollado para un servidor privado de **World of Warcraft 3.3.5a**, integrado completamente con el servidor del juego mediante **Spring Boot** y **React + Vite**.
+
+### 🚀 Tecnologías principales
+
+- ⚛️ React + Vite
+- ☕ Spring Boot
+- 🗄️ MySQL
+- 🔐 Autenticación compatible con TrinityCore mediante **SRP6**
+- 💳 Integración con **Mercado Pago**
+- 🎮 Gestión de personajes, tienda premium, rankings y guías
+
+---
+
+## 🌐 Sitio Web
+
+👉 **Demo Online:** https://wowelbe.netlify.app
+
+---
+
+## 📸 Vista previa
+
+<p align="center">
+    <img src="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/home.png?raw=true" width="900">
+</p>
+
+<p align="center">
+    <b>Pantalla principal del portal</b>
+</p>
+
+---
+
+## 🖼️ Galería
+
+<p align="center">
+
+<a href="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/login.png?raw=true">
+<img src="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/login.png?raw=true" width="180">
+</a>
+
+<a href="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/characters.png?raw=true">
+<img src="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/characters.png?raw=true" width="180">
+</a>
+
+<a href="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/guides.png?raw=true">
+<img src="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/guides.png?raw=true" width="180">
+</a>
+
+<a href="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/shop.png?raw=true">
+<img src=="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/shop.png?raw=true" width="180">
+</a>
+
+<a href="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/payment.png?raw=true">
+<img src="https://github.com/EnzoxxB/portfolio/tree/main/public/images/projects/wowelbe/payment.png?raw=true" width="180">
+</a>
+
+</p>
+
+<p align="center">
+<b>Login</b> •
+<b>Inicio</b> •
+<b>Tienda</b> •
+<b>Personajes</b>
+</p>
+
+---
+
+## ✨ Características
+
+- 🔐 Autenticación compatible con World of Warcraft mediante **SRP6**.
+- 👤 Gestión de personajes directamente desde la base de datos del servidor.
+- 🛒 Tienda Premium integrada.
+- 💳 Integración completa con Mercado Pago.
+- ⚡ Acreditación automática mediante Webhooks.
+- 💎 Sistema de Special Points (PE) y Donation Points (PD).
+- 📊 Rankings PvP/PvE.
+- 📚 Guías para jugadores.
+- 🌐 Backend REST desarrollado con Spring Boot.
+
+---
+
+## 🔗 Portfolio
+
+Si deseas ver una presentación mucho más completa del proyecto, con más capturas, descripción técnica y detalles de la arquitectura:
+
+👉 **https://bepf.netlify.app/projects**
 
 ### [Sistema de Reservas - UTN Los Reyunos *(2024)*](#)
 - Implementación de servicios **RESTful** para la gestión de reservas.
